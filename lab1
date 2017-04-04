@@ -5,3 +5,12 @@ ls              # tells me which files are in the directory (add -l for a detail
 cd              # allows me to change to other directory (left click)
 cd ..           # go back to previous directory (backspace)
 date            # what time is it on this machine
+
+
+
+/var/root # cat test.sh                                                         
+!#/bin/sh                         #not !# but #!    (#!/bin/sh)                                              
+                                                                                
+echo "hello world"                                                              
+                                                                                
+                           
