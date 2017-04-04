@@ -1,1 +1,7 @@
-# this is a comment
+#this is a comment
+pwd             # prints working directory and tells me where i am
+whoami          # tells me which user I'm logged in as
+ls              # tells me which files are in the directory (add -l for a detailed list)
+cd              # allows me to change to other directory (left click)
+cd ..           # go back to previous directory (backspace)
+date            # what time is it on this machine
