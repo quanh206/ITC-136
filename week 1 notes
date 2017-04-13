@@ -1,0 +1,44 @@
+# Markup Language :
+#Markdown - *md     
+
+# April 11, 2017
+
+# Hardware -> OS > applications > UI 
+
+# OS uses drivers/ system calls (libraries)
+
+# Kernel responsible for CPU time (processed/calculated), memory allocation, processes, and #additional resources
+
+# micro kernel
+# monolithic kernel 
+# kernel modules 
+
+# Unix came from Bell labs (monopoly), collabed with Berkeley, copyrighted so started from #scratch > bsd > acadamia
+
+# 1991 Linus, created minix which led to linux > GNU > open source
+
+#BSD Free bsd (1993)                linux
+# net bsd/ open bsd                Debian server(stable)
+# Security centric                Ubuntu, extremely user friendly for linux, cutting #    # BSd jails                        edge
+#CHrooting                military free tech support            
+#                Red hat server (licensed,stable)
+#                Centos server
+#                Fedora (cutting edge, unstable)
+#                SUSE (desktop & server integration)
+#                open Suse (source)
+
+#android uses linux
+#osx uses bsd
+
+# windows / canonical > ubuntu
+# * bash / *gnu
+
+# zypper install ____ suse open suse RPM
+# apt - get install ____ debian ubuntu .deb
+# yum install ____ red hat    RPM
+# interacts with packages and repos (package managers)
+
+# embedded systems 
+# android, ios, RoCU, calculators, rumba, surveillance cameras, thermostat, home security
+
+# ubuntu is unity OS that sits on top of gnome?
