@@ -1,4 +1,6 @@
-# Markup Language :
+
+
+## Markup Language :
 #Markdown - *md     
 
 # April 11, 2017
@@ -42,3 +44,9 @@
 # android, ios, RoCU, calculators, rumba, surveillance cameras, thermostat, home security
 
 # ubuntu is unity OS that sits on top of gnome?
+# installing packages : sudo su
+# login
+# apt-get update
+# apt-get install kde 
+# apt-get remove name of file
+# apt-cache search pdf 
