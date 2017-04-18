@@ -1,12 +1,6 @@
-# Open source Licensing : MIT License
-# Grants permissions to any person that would want a copy of your software and associated document files. That person is allowed to sell,
-# copy, distribute, modify, publish and use those software without any limitations. However, the owner of those softwares is not liable
-# for any claims, damages or other liability that has to do with those softwares.
-#
-# Actual License
-# MIT License
+MIT License
 
-Copyright (c) 2017 Quan Hoang
+Copyright (c) 2017 quanh206
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
