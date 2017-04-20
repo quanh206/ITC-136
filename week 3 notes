@@ -26,3 +26,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# 4/20/2017
+# ps aux | more      shows a list of all the running programs
+# ps aux | firefox    searches for firefix
+# kill (number id of program) ends the program
+# top     similar to task manager? shows stats of programs
+# q to quit top
+# lsof | more          list of open files might have to do sudo su then log in first
+# clear - clears the page
+# man more              shows user commands
+# losf | less is bigger than more
+# pstree | less       show processes in a tree
+# whereis libreoffice     makes program runs in the background
+# /usr/bin/libreoffice&    executes the program
+# 
