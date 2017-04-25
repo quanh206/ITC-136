@@ -2,3 +2,6 @@
 # sshd/ httpd     d = daemon stands for server side not client side
 #scp  encrypted file transfer/ secure copy
 #ssh secure shell/bash tcp:22
+#pearl interpreted language you dont compile
+# python is object oriented language
+#java is portable can be deployed on many machines (windows, unix,linux)
