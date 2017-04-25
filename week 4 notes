@@ -1,0 +1,4 @@
+#4/25/2017
+# sshd/ httpd     d = daemon stands for server side not client side
+#scp  encrypted file transfer/ secure copy
+#ssh secure shell/bash tcp:22
