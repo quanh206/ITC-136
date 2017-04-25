@@ -36,8 +36,7 @@ SOFTWARE.
 # lsof | more          list of open files might have to do sudo su then log in first
 # clear - clears the page
 # man more              shows user commands
-# losf | less is bigger than more
+# losf | less     is bigger than more
 # pstree | less       show processes in a tree
 # whereis libreoffice     makes program runs in the background
 # /usr/bin/libreoffice&    executes the program
-# 
