@@ -1,0 +1,13 @@
+#sudo visudo/ visudo = vim = sudo                  allows who has root power
+#man ___(file name)   = manual    man shadow/man psswd
+# man -k passwd/ man -k ls      list of manual stuff
+#apropos passwd   
+#sudo adduser _____ (name of user)
+# ssh username:ip address to ssh
+#Sudo adduser username
+Enter password
+Reenter password
+
+Ssh username@ipaddress
+Yes
+Enter password to login
