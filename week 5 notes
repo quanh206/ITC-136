@@ -12,3 +12,6 @@ Ssh username@ipaddress
 Yes
 Enter password to login
 password reset: become root> passwd username command
+172.31.83.102 user4/password andrew
+172.31.83.151 user1/ubuntu philip
+172.31.83.125 test/P@ssw0rd1 mark
