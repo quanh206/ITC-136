@@ -1,1 +1,29 @@
 DNS name resolution name to ip address
+to add a user to home directory -> (adduser nameofuser -c"comment" -m) to create a home directory for user 
+so they are not lost in the file system
+
+useradd is a low level utility for adding users
+adduser is a script that does everything for you instead of typing in all da fields 
+
+useradd -m test1 creates a test user in home directory
+
+vim /etc/adduser.conf you can specify the fields for adduser
+
+useradd/adduser only for one standalone desktop
+
+LDAP - linux
+Active Directory - Windows
+These 2 add users on a network/available on any machine
+
+reasons for making system accounts
+automation
+deploying services
+no logins
+500-1000
+1000+
+
+Groups
+*perms  philosophy
+  1.project > put people in groups by things they work on (user/staff)
+  2.users > when created so is a group by the same name
+ubuntu uses users philosophy
