@@ -29,3 +29,21 @@ Groups
 ubuntu uses users philosophy
 
 ifconfig to find ip address
+
+ls -a shows hidden files which are files with a . infront of it
+
+instead of using tickets linux uses cryptographic ____ for security
+
+cd ~ to get to home directory
+
+dd is to delete something which idk
+
+vim ~/.shh/known_hosts shows the crypto key?
+
+default UID is 1000 test@test-VM
+root UID is 0
+
+escalation of permissions
+permission escalation
+
+cat = println
