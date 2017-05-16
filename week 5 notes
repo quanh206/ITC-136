@@ -15,3 +15,9 @@ password reset: become root> passwd username command
 172.31.83.102 user4/password andrew
 172.31.83.151 user1/ubuntu philip
 172.31.83.125 test/P@ssw0rd1 mark
+
+apt-get install vim
+apt-get install openssh-server
+
+sshd_config is the configuration file for the OpenSSH server. ssh_config is the configuration file for the OpenSSH client.
+Make sure not to get them mixed up.
