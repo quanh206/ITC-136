@@ -10,3 +10,45 @@ man faillog - tells when logs fail
 
 lastlog | less
 lastb
+
+exit out of root
+
+cd ~/Desktop > history.out > vim history.out     displays a history of commands?
+
+:10 goes to line 10 in the history.out command
+
+line
+$ takes you to the end of line 4
+0 takes you to start of the line
+dd delete a line
+
+file
+:0 takes you to the top of the file or type gg
+:$ takes you to bottom of file
+gg top of the file
+
+undo
+u
+
+:split ~/.bashrc shows you two files at once
+
+ctrl w switches btw files to edit
+
+:hide closes a file
+
+vim history.out creates a copy of history.out and you are editing this file
+
+:wq write and quit
+: is in command mode
+
+:only displays one file in split
+
+:q! exits out of split
+
+/name of whatever = control f
+n = next
+
+i is to start typing (insert mode)
+esc stops typing (command mode)
+
+:wq! write quit force
