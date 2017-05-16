@@ -1,1 +1,12 @@
+to see who's logged in become root
+cd /var/log
+cat auth.log | less
 
+history displays all the commands used in the past
+
+grep sudo auth.log | less  >> lets you see everything thats happened in your log?
+
+man faillog - tells when logs fail
+
+lastlog | less
+lastb
