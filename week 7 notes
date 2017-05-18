@@ -52,3 +52,19 @@ i is to start typing (insert mode)
 esc stops typing (command mode)
 
 :wq! write quit force
+
+vi older version of vim
+*network gear?
+*embedded system
+* minimal cloud images
+
+for vi
+"i" = insert (to type)
+
+detele = dd
+
+shift+u to undo
+
+i for insert, esc for command mode
+
+:wq
