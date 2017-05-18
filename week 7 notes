@@ -58,6 +58,7 @@ vi older version of vim
 *embedded system
 * minimal cloud images
 
+tcc -o hello hello.c
 for vi
 "i" = insert (to type)
 
