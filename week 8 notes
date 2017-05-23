@@ -1,1 +1,18 @@
+variable=data
+echo $variable >>> data
 
+df -h    how much space you have available on your filesystem
+
+du -h      disk used (relative to where you are) 
+
+>> redirect outputs into a diff place (echo history >> history.out)
+
+df -h | grep "/dev/sdal" | awk '{print s5}'   grep grabs the line, awk grabs the column
+ex: /dev/sdal 16G 5.0G 9.9G 2%
+output is just the 2%
+
+env | less  
+
+for a program to be executable it has to be in your "path"
+
+chmod +x    change mode makes a file executable, +x makes it writeable
