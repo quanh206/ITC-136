@@ -22,3 +22,7 @@ for a program to be executable it has to be in your "path"
 chmod +x    change mode makes a file executable, +x makes it writeable
 
 echo $PATH displays your current path?
+
+to get to the script file
+
+sudo vim /usr/local/bin/stats
