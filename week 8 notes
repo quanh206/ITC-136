@@ -1,6 +1,6 @@
 making scripts programs
 
-variable=data
+variable=data     might need "data"
 echo $variable >>> data
 
 df -h    how much space you have available on your filesystem
@@ -26,3 +26,12 @@ echo $PATH displays your current path?
 to get to the script file
 
 sudo vim /usr/local/bin/stats
+
+# is to make a comment
+
+make a new file and move it to application with added picture
+cd ~/Desktop
+vim stats.desktop    edit the file with image
+sudo chmod +x stats.desktop
+sudo mv stats.desktop /usr/share/application
+/stats.desktop    change exec to /usr/bin/gnome-terminal -e/usr/local/stats
