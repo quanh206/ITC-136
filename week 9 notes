@@ -10,3 +10,14 @@ fi
 for variable in $(file); 
  do
 done 
+
+to clone repository cd ~/Desktop
+git clone https://github.com/quanh206/ITC-136.git
+
+to copy files from your vm to repository
+cp /usr/local/bin/* . 
+
+commit your changes
+git add *
+git commit -m "comment about the changes"
+git push
