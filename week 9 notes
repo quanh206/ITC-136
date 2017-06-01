@@ -25,3 +25,9 @@ git push
 vim example.sh
 chmod +x example.sh
 ./example.sh to run the file
+
+. is this current directory
+.. next level directory
+/ is root
+
+
