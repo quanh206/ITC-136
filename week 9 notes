@@ -21,3 +21,7 @@ commit your changes
 git add *
 git commit -m "comment about the changes"
 git push
+
+vim example.sh
+chmod +x example.sh
+./example.sh to run the file
