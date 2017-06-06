@@ -1,0 +1,16 @@
+/home/user has (desktop, video, music) is where all the user files are stored
+this is for security, portability
+
+/var/log,mail,spool,/    contains semi permanent 
+
+/etc/password,ssh,skel,
+
+/ect/ssh/
+bin - user binaries
+S bin - system binaries
+lib - libraries
+share - fonts/pics
+
+no prefix /bin   /sbin    /lib     base functionality
+user prefix  /usr/bin ^ same        functioning with users
+user local prefix   /usr/local/bin ^^   
