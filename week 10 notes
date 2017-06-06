@@ -14,3 +14,7 @@ share - fonts/pics
 no prefix /bin   /sbin    /lib     base functionality
 user prefix  /usr/bin ^ same        functioning with users
 user local prefix   /usr/local/bin ^^   
+
+locate     - tells where everything is
+whereis    - find binary info
+which __   - complete info
