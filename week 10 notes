@@ -18,3 +18,18 @@ user local prefix   /usr/local/bin ^^
 locate     - tells where everything is
 whereis    - find binary info
 which __   - complete info
+
+ps aux - to look at processes  shows process id
+ps top - shows top 10 cpu intensive 
+w/who  - users currently logged in
+kill (process id)
+killall -u username
+lastlog
+cd ~ - change directory
+vim filename - opens up editory
+sudo apt-get install (package name)
+apt-cache search filename - looks for a package
+history - shows all command used
+history >> filename    - redirects to a new file
+man -k    - returns a list of manual page
+man man - manual for man
